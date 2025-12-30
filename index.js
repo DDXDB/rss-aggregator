@@ -15,9 +15,9 @@ const rssList = [
 
 const storagePath = './';
 const authorINFO = {
-    name: 'RavelloH',
-    email: 'ravelloh@outlook.com',
-    link: 'https://ravelloh.top/',
+    name: '1111',
+    email: '111111@1111.com',
+    link: 'https://ddxdb.github.rss/',
 };
 
 const feed = new Feed({
@@ -31,9 +31,9 @@ const feed = new Feed({
     copyright: `Copyright © 2019 - ${new Date().getFullYear()} RavelloH. All rights reserved.`,
     generator: 'https://github.com/RavelloH/rss-aggregator',
     feedLinks: {
-        json: 'https://ravelloh.github.io/rss-aggregator/feed.json',
-        atom: 'ravelloh.github.io/rss-aggregator/atom.xml',
-        rss: 'ravelloh.github.io/rss-aggregator/rss.xml',
+        json: 'ddxdb.github.rss/rss-aggregator/feed.json',
+        atom: 'ddxdb.github.rss/rss-aggregator/atom.xml',
+        rss: 'ddxdb.github.rss/rss-aggregator/rss.xml',
     },
     author: authorINFO,
 });
