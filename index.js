@@ -9,9 +9,8 @@ const log = new Rlog();
 const rssList = [
     'atom.xml', // Do not delate this. This could keep your history rss.
     // Edit the list below 
-    'https://ravelloh.top/feed/atom.xml',
-    'https://www.ithome.com/rss/',
-    'https://sspai.com/feed'
+    'https://bt4gprx.com/search?q=hentaied%201080P%20FETiSH&page=rss',
+    'https://bt4gprx.com/search?q=parasited%201080P%20FETiSH&page=rss',
 ];
 
 const storagePath = './';
