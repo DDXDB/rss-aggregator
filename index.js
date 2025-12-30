@@ -31,9 +31,9 @@ const feed = new Feed({
     copyright: `Copyright © 2019 - ${new Date().getFullYear()} RavelloH. All rights reserved.`,
     generator: 'https://github.com/RavelloH/rss-aggregator',
     feedLinks: {
-        json: 'ddxdb.github.rss/rss-aggregator/feed.json',
-        atom: 'ddxdb.github.rss/rss-aggregator/atom.xml',
-        rss: 'ddxdb.github.rss/rss-aggregator/rss.xml',
+        json: 'ddxdb.github.io/rss-aggregator/feed.json',
+        atom: 'ddxdb.github.io/rss-aggregator/atom.xml',
+        rss: 'ddxdb.github.io/rss-aggregator/rss.xml',
     },
     author: authorINFO,
 });
