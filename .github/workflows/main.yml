@@ -44,7 +44,7 @@ jobs:
           git add -A
           git commit -m "`date '+%Y-%m-%d %H:%M:%S'`"
           git status
-          git push origin main
+          git push origin RSS
           git status
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
